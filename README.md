@@ -1,10 +1,9 @@
 ELASTIC SEARCH LAB
-Objective
 
+Objective
 The lab also aims to demonstrate how Elasticsearch can be used in cybersecurity contexts for real-time log analysis, threat detection, and incident response.
 
 Skills Learned
-
 - Elasticsearch Setup and Configuration: Gained hands-on experience installing and configuring Elasticsearch nodes and clusters.
 - Indexing and Data Ingestion: Learned how to index data manually and through automated ingestion using tools like Logstash and Filebeat.
 - Data Analysis and Visualization: Used Kibana to create visualizations and dashboards for log analysis and anomaly detection.
@@ -22,4 +21,5 @@ Steps
 
 
 Example below.
-![Uploading image.png…]()
+
+![Uploading Picture 1.png…]()
